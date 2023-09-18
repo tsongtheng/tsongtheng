@@ -39,19 +39,19 @@
 <div align="center">
 <img height="300" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
 </div>
-###
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Stats</h3>
+<div align="center">
+<a href="https://github.com/tsongtheng">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=tokyonight" alt="tsongtheng" />
+</a>
+</div>
 <div align="center">
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" />
 </a>
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt="tsongtheng" />
-</a>
-</div>
-<div align="center">
-<a href="https://github.com/tsongtheng">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=tokyonight" alt="tsongtheng" />
 </a>
 </div>
 
