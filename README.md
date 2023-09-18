@@ -49,15 +49,15 @@
 </a>
 </div>
 
-<div> <a href="https://github.com/tsongtheng" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+
 <div align="center">
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
 <imgheight="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=dracula" alt="tsongtheng" />
 <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" />-->
 </a>
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=dracula" alt=tsongtheng />
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt="tsongtheng" />-->
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=dracula" alt=tsongtheng />-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=dracula" alt="tsongtheng" />
 </a>
 </div>
 
