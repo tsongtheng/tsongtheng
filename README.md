@@ -48,6 +48,8 @@
 <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=tokyonight" alt="tsongtheng" />-->
 </a>
 </div>
+
+<div> <a href="https://github.com/tsongtheng" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <div align="center">
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
 <imgheight="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=dracula" alt="tsongtheng" />
