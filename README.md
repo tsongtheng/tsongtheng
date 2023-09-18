@@ -32,11 +32,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
-<h3 align="center">Trophy</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsongtheng&theme=tokyonight" alt="tsongtheng" /></a> </p>
+<h3 align="left">Trophy</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsongtheng&theme=tokyonight" alt="tsongtheng" /></a> </p>
 
-<h3 align="center">Stats</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt=tsongtheng />
+<h3 align="left">Stats</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt=tsongtheng />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" /></p>
 
