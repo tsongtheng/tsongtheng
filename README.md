@@ -33,7 +33,8 @@
 </p>
 
 <h3 align="left">Trophy</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsongtheng&theme=tokyonight" alt="tsongtheng" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsongtheng&theme=tokyonight" alt="tsongtheng" /></a> </p>-->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tsongtheng&theme=monokai" alt="tsongtheng" /></a> </p>
 
 <br clear="both">
 <div align="center">
@@ -43,15 +44,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Stats</h3>
 <div align="center">
 <a href="https://github.com/tsongtheng">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=tokyonight" alt="tsongtheng" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=dracula" alt="tsongtheng" />
+<!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=tokyonight" alt="tsongtheng" />-->
 </a>
 </div>
 <div align="center">
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=dracula" alt=tsongtheng />
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" />-->
 </a>
 <a href="https://github.com/tsongtheng" style="display: inline-block; margin: 0 10px;">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt="tsongtheng" />
+<imgheight="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=dracula" alt="tsongtheng" />
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt="tsongtheng" />-->
 </a>
 </div>
 
