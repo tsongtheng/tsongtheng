@@ -25,6 +25,18 @@ src="https://img.shields.io/twitter/follow/tipchan_s?logo=twitter&style=for-the-
 
 ### Badges
 
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tsongtheng/tsongtheng/output/snake.svg" alt="Snake animation" />
+
+###
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/tsongtheng"><img src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="tsongtheng's GitHub stats" /></a>
