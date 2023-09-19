@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Tipchan songtheng</h1>
 
@@ -35,15 +35,19 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </p>
 
+<!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=monokai" alt="tsongtheng" />-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | 
-| ------------- | ------------- | ------------- |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=monokai" alt="tsongtheng" /> | 
+| ------------- | ------------- |
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center"><b>Statistics</b></p>
+</br>
 <div align="center">
 <a href="https://github.com/tsongtheng">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsongtheng&theme=tokyonight" height="170em" />
@@ -56,9 +60,6 @@
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</br>
-</br>
 
 <p align="left"><b>⚡Activity Graph</b></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tsongtheng&theme=tokyo-night"/>
