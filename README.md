@@ -21,6 +21,8 @@
 -------
 
 <b align="left">Languages and Tools</b>
+<img height="140" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" alt="typing gif" align="right"/>
+
 <p align="left">  
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
@@ -33,31 +35,22 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </p>
 
--------
-
-<div align="center"> 
-<a href="https://github.com/tsongtheng">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=monokai" alt="tsongtheng" />
-</a>
-<img height="180" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" alt="typing gif"/>
-</div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-| <a align="center" href="https://github.com/tsongtheng"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=tokyonight" alt="tsongtheng" /></a> | <a align="center" href="https://github.com/tsongtheng"><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&langs_count=8&theme=tokyonight" alt="tsongtheng" /></a> | 
-| ------------- | ------------- |
+| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | 
+| ------------- | ------------- | ------------- |
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/tsongtheng">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsongtheng&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsongtheng&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsongtheng&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsongtheng&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsongtheng&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tsongtheng&theme=tokyonight" height="170em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tsongtheng&theme=tokyonight" height="170em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tsongtheng&theme=tokyonight" height="170em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tsongtheng&theme=tokyonight" height="170em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsongtheng&theme=tokyonight" height="170em" />
 </div>
   
 </br>
