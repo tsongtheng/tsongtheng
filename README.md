@@ -17,21 +17,7 @@
 <a href="https://twitter.com/tipchan_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="tipchan_s" height="30" width="40" /></a><a href="https://linkedin.com/in/tipchan-songtheng-5417991a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="tipchan-songtheng-5417991a8" height="30" width="40" /></a><a href="https://medium.com/@tipchansongtheng123" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="@tipchansongtheng123" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-
-html-https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg
-css-https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg
-javascript-https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg
-react-https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg
-sass-https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg
-tailwind-https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg
-git-https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
-figma-https://www.vectorlogo.zone/logos/figma/figma-icon.svg
-linux-https://www.vectorlogo.zone/logos/linux/linux-icon.svg
-archlinux-https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg
-
-  
+<p align="left">  
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Javascript" width="40" height="40"/>
