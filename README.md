@@ -16,7 +16,6 @@
 - 👨🏻‍💻 Web Developer
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **React**
-- 📚 Love to read **Books**
 </p>
 
 -------
