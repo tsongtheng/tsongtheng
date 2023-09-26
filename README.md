@@ -43,13 +43,17 @@
 <!--| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=monokai" alt="tsongtheng" /> | 
 | ------------- | ------------- |-->
 
+
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=monokai" alt="tsongtheng" />
 </p>
 
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 <p align="center"><b>Statistics</b></p>
 </br>
 <div align="center">
@@ -63,7 +67,7 @@
   
 </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
 <p align="left"><b>⚡Activity Graph</b></p>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tsongtheng&theme=tokyo-night"/>
