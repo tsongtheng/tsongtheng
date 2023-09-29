@@ -1,6 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
 <!--<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="100%" height="200"/>-->
 
+
 <h1 align="center">Hi 👋, I'm Tipchan songtheng</h1>
 
 <div align="center"> <a href="https://twitter.com/tipchan_s" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -21,7 +22,7 @@
 -------
 
 <b align="left">Languages and Tools</b>
-<img height="140" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" alt="typing gif" align="right"/>
+<!--<img height="140" src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" alt="typing gif" align="right"/>-->
 
 <p align="left">  
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="40" height="40"/>
@@ -37,6 +38,11 @@
 
 <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tsongtheng&theme=monokai" alt="tsongtheng" />-->
 
+-------
+
+[![An image of @tsongtheng's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tsongtheng)](https://holopin.io/@tsongtheng)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
@@ -44,12 +50,9 @@
 | ------------- | ------------- |-->
 
 
-
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsongtheng&show_icons=true&locale=en&theme=monokai" alt="tsongtheng" />&nbsp;&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsongtheng&layout=compact&theme=monokai" alt="tsongtheng" />
 </p>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
