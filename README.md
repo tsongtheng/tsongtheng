@@ -15,8 +15,8 @@
 <img src="https://komarev.com/ghpvc/?username=tsongtheng&label=Profile%20views&color=0e75b6&style=flat" alt="tsongtheng" align="right"/> 
   
 - 👨🏻‍💻 Web Developer
-- 🌱 I’m currently learning **NEXT.js**
-- 💬 Ask me about **NEXT.js**
+- 🌱 I’m currently learning **React** & **Node.js**
+- 💬 Ask me about **React** & **Node.js**
 </p>
 
 -------
